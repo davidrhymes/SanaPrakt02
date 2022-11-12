@@ -11,4 +11,5 @@
 Репозиторій на:  
 - [x] GitHub  
 - [ ] GitLab  
-- [ ] Bitbucket
+- [ ] Bitbucket  
+*Виконав:* Кравчук Давид
